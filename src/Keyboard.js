@@ -77,6 +77,7 @@ const styles = StyleSheet.create({
   itemView: {
     height: 60,
     flexDirection: 'row',
+    backgroundColor:'#fff'
   },
   item: {
     flex: 1,
